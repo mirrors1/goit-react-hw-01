@@ -6,6 +6,7 @@
 }
 .avatar {
   width: 48px;
+  margin: 0 auto;
   margin-bottom: 10px;
 }
 .name {
